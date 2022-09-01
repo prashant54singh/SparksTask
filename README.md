@@ -1,4 +1,4 @@
-# SparksTask Internship
+# The Sparks Foundation Task Internship
      
 A simple website with payment gateway integration for donting money.
     
